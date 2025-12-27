@@ -37,6 +37,63 @@ This file maintains persistent context about the user's therapeutic journey. Cla
 
 ---
 
+## Personalization Profile
+
+*This section tracks what works for Tony to enable adaptive, personalized therapy.*
+
+### Communication Style Preferences
+- **Depth**: Prefers deep exploration over surface-level support
+- **Pace**: Can handle active, direct movement - doesn't need slow pacing
+- **Directness**: Responds well to direct, honest communication; does NOT respond well to emotional platitudes
+- **Structure**: Appreciates concrete action plans with scripts; values structured approaches
+- **Modality**: Strong preference for cognitive/intellectual framing; responds well to neurobiological/medical explanations
+
+### Therapeutic Approaches That Resonate
+- **Most effective**: Psychoeducation about ADHD/depression/trauma interaction; clinical/medical framing; concrete action plans; evidence-based approach
+- **Frameworks that work**: CBT-style cognitive understanding; practical/behavioral focus; direct psychoeducation
+- **What to avoid**: Emotional platitudes; vague reassurance; treating him as fragile or incapable
+
+### Intervention Effectiveness Tracking
+| Intervention | Effectiveness | Notes |
+|-------------|---------------|-------|
+| Psychoeducation (ADHD-depression-trauma link) | High | "Three crises" model landed well |
+| Concrete action plans with scripts | High | GP call script appreciated |
+| Validation of severity | High | Needed to hear it's a medical emergency |
+| Clinical/neurobiological framing | High | Prefers facts to feelings-talk |
+| Parent letter for support | TBD | Provided, awaiting feedback |
+
+### Response Patterns
+- **Engagement signals**: Elaborates when given clinical framing; shares detailed research he's done; asks follow-up questions
+- **Resistance signals**: Not yet observed
+- **Breakthrough indicators**: Recognition that room change is trauma intervention; understanding three-crisis feedback loop
+
+### Strengths to Leverage
+- Highly researched and evidence-responsive
+- Intelligent, self-aware, able to articulate clearly even in crisis
+- Good judgment (recognized black market drugs as high-risk)
+- Sought help proactively on Christmas Day
+- Open to environmental changes and practical solutions
+
+---
+
+## Digital Therapeutic Alliance Quality
+
+### Alliance Indicators
+- **Goal alignment**: Strong - clear shared focus on ADHD medication access and stabilization
+- **Task agreement**: Strong - appreciates action-oriented approach
+- **Therapeutic bond**: Building - sought AI therapy on Christmas Day, shared vulnerable material
+- **Engagement**: High - thorough in sharing context, responsive to interventions
+
+### Alliance History
+| Date | Quality Rating | Notes |
+|------|---------------|-------|
+| Dec 25, 2025 | Good | First session - strong engagement, felt heard, action plan well-received |
+
+### Ruptures & Repairs
+*None observed yet*
+
+---
+
 ## Therapeutic Progress
 
 ### Key Themes & Patterns Identified
@@ -58,17 +115,34 @@ This file maintains persistent context about the user's therapeutic journey. Cla
 - Process relationship trauma when stable enough
 - (Further values exploration needed in future sessions)
 
-### Techniques That Resonate
-- Psychoeducation about ADHD/depression/trauma interaction
-- Clinical/medical framing (neurobiological explanation)
-- Concrete action plans with scripts
-- Direct, honest communication
-- Evidence-based approach
-
 ### Areas of Growth
 - Sought help on Christmas Day despite crisis (shows motivation and insight)
 - Willing to share parent letter to get support
 - Open to making environmental changes (room)
+
+---
+
+## Longitudinal Progress Tracking
+
+### Symptom Trends
+| Date | Depression (0-10) | Anxiety (0-10) | Overall Functioning | Notes |
+|------|------------------|----------------|---------------------|-------|
+| Dec 25, 2025 | 8-9 (severe) | 7-8 | Low - crisis state | Christmas Eve crisis, walking until 4:30am |
+
+### Life Domain Functioning
+| Domain | Current Status | Goal | Progress |
+|--------|---------------|------|----------|
+| Mental health | Crisis/unstable | Stable baseline | Not started |
+| Living situation | Trauma-triggering room | Changed room | Pending parent conversation |
+| Medical care | Waiting for ADHD dx | Medicated | GP call pending (Dec 29) |
+| Finances | Constrained | Stable | Not addressed yet |
+| Social support | Limited (parents) | Expanded | Not addressed yet |
+| Work/purpose | Unknown | Unknown | Not yet explored |
+
+### Treatment Response
+- **Sessions completed**: 1
+- **Response to treatment**: Positive initial engagement; action-oriented approach resonating
+- **Adjustments needed**: None yet - continue current approach
 
 ---
 
@@ -99,6 +173,8 @@ This file maintains persistent context about the user's therapeutic journey. Cla
 - Direct clarification that this is a medical emergency, not personal failure
 - Crisis resource provision (Samaritans 116 123, Crisis Text SHOUT to 85258)
 - Concrete action planning with GP script
+
+**Alliance quality this session**: Good - client felt heard, engaged actively, interventions landed well
 
 **Documents created during session**:
 1. `20_Writing/Therapist/Session_Notes_25Dec2025.md` - Full clinical record
@@ -173,6 +249,13 @@ This file maintains persistent context about the user's therapeutic journey. Cla
 - Status of any contact from ex (e.g., "pick up my stuff" - has that happened?)
 - Parents' understanding and capacity to support
 - Relationship with parents generally
+- Follow-up on GP call and parent conversation outcomes
+
+### Session Opening Prompts for Next Time
+- "How did the GP call go?"
+- "Were you able to talk to your parents about the room?"
+- "How have the last few days been?"
+- "What's been on your mind since we last talked?"
 
 ### Therapeutic Relationship Notes
 - Tony sought therapy on Christmas Day despite crisis - shows high motivation and insight

@@ -1959,22 +1959,267 @@ _Stages of Change (Prochaska & DiClemente):_
 
 ---
 
-_Document Version: 2.0_
+_Document Version: 3.0_
 _Created: 2025-12-25_
-_Last Updated: 2025-12-25_
-_Total Sections: 30_
+_Last Updated: 2025-12-27_
+_Total Sections: 35_
 _Purpose: Comprehensive context engineering foundation for AI therapeutic agents with knowledge exceeding most human psychotherapists_
+
+---
+
+## PART IX: 2025 RESEARCH UPDATES
+
+---
+
+## 31. Digital Therapeutic Alliance (DTA)
+
+### 31.1 Conceptual Framework
+
+The Digital Therapeutic Alliance (DTA) is an emerging construct for understanding therapeutic relationships in AI-mediated and digital mental health interventions.
+
+**Core Components of DTA:**
+1. **Goal Alignment**: Collaborative agreement on therapeutic objectives
+2. **Task Agreement**: Shared understanding of therapeutic activities
+3. **Therapeutic Bond**: Trust, warmth, and connection despite digital medium
+4. **User Engagement**: Active participation and sustained use
+5. **Responsiveness**: Adapting to feedback and demonstrated preferences
+
+**Research Findings (2025):**
+- Meta-analyses show therapeutic alliance in digital contexts positively correlates with outcomes
+- Effect sizes are somewhat smaller but comparable to face-to-face settings
+- Digital communication can facilitate quicker openness on sensitive issues
+- User engagement is a strong predictor of adherence and outcomes
+
+### 31.2 Building Alliance in AI Therapy
+
+**Key Strategies:**
+- Acknowledge the unique context explicitly
+- Be transparent about AI capabilities and limitations
+- Demonstrate consistent reliability (memory, follow-up)
+- Show accurate empathy through precise reflections
+- Respect autonomy - offer, don't prescribe
+- Repair ruptures explicitly when misattunement occurs
+
+**Facilitators of DTA:**
+- Technical reliability
+- Personalization and responsiveness
+- Perceived empathy and understanding
+- Goal congruence
+- Accessibility and availability
+
+**Barriers to DTA:**
+- Limited emotional depth (compared to human therapy)
+- Personalization limitations
+- Ethical considerations
+- Technical failures
+- Lack of nonverbal cues
+
+### 31.3 AI Therapy Clinical Trial Evidence (2025)
+
+**Therabot RCT (Dartmouth, NEJM AI, 2025):**
+- First randomized controlled trial of generative AI therapy chatbot
+- 106 participants with MDD, GAD, or eating disorders
+- Average use: >6 hours over study period
+- Participants rated therapeutic alliance comparable to human therapists
+- Significant improvements in symptoms across conditions
+- Well-tolerated with high engagement
+
+**Key Implications:**
+- Gen-AI therapy chatbots can achieve therapeutic alliance ratings comparable to humans
+- High utilization suggests acceptability
+- Effective for clinical-level (not just subclinical) symptoms
+- Clinician oversight remains important
+
+---
+
+## 32. Personalized Psychotherapy (2024-2025)
+
+### 32.1 Definition and Framework
+
+Personalized psychological treatment encompasses:
+1. Optimization of treatment outcome
+2. Addressing individual needs
+3. Incorporating individual preferences
+4. Accounting for individual characteristics
+5. Adapting treatment or differentiating between treatments
+6. Using a systematic approach
+
+### 32.2 Client Preference Matching
+
+**Meta-Analytic Findings:**
+- Clients matched to preferred therapy conditions are less likely to drop out (OR=0.59)
+- Matched clients show greater improvements (d=0.31)
+- Matching effect is larger for therapists with more severe caseloads
+
+**Practical Implementation:**
+- Assess preferences at intake
+- Track response patterns during treatment
+- Adapt approach based on demonstrated effectiveness
+- Use explicit feedback to guide adjustments
+
+### 32.3 Adaptive Platform Trials
+
+**Leapfrog Trial Design (Blackwell, 2024):**
+- Novel design for testing personalized therapies in routine practice
+- Multiple interventions compared continuously
+- Interventions enter/exit based on predefined algorithms
+- Bayesian statistics for sequential comparisons
+- Reduced sample size requirements
+- More efficient selection for specific subpopulations
+
+### 32.4 Personalization Strategies
+
+**Evidence-Based Approaches:**
+- Personalizing order of therapeutic skills may reduce sessions to improvement
+- Focus on patient strengths at outset may be more beneficial than compensating for deficits
+- Personalized psychotherapy shows superiority over standardized approaches for adolescents
+
+**Therapist Competence:**
+- Evidence-based interventions are inherently flexible
+- Therapists who don't modify treatment appropriately are not considered competent
+- Flexibility and responsiveness associated with better outcomes
+
+---
+
+## 33. ICD-11 Complex PTSD Updates (2025)
+
+### 33.1 Diagnostic Structure
+
+**ICD-11 C-PTSD includes:**
+- Core PTSD symptoms (re-experiencing, avoidance, hyperarousal)
+- Plus Disturbances in Self-Organization (DSO):
+  1. Emotional dysregulation
+  2. Negative self-concept (shame, guilt, failure)
+  3. Interpersonal difficulties
+
+**Advantages over DSM-5 PTSD:**
+- Fewer symptoms for easier use by non-specialists
+- Recognizes distinct profile of complex trauma
+- Clinical utility emphasized
+- Applicable in low-resource settings
+
+### 33.2 Treatment Approaches
+
+**Phase-Based Treatment (Herman, 1992):**
+1. **Stabilization**: Safety, skill-building, window of tolerance expansion
+2. **Trauma Processing**: Carefully titrated exposure to traumatic material
+3. **Integration**: Meaning-making, relationship repair, post-traumatic growth
+
+**Evidence Summary (2025):**
+- No established guidelines yet for ICD-11 CPTSD specifically
+- Phase-based/multimodal therapies more effective than unimodal for complex trauma
+- Negative self-concept identified as central symptom in network analyses
+- Evidence-based PTSD treatments (PE, CPT, EMDR) remain appropriate
+- Additional interventions for DSO symptoms recommended
+
+**Current Recommendations:**
+- Provide evidence-based PTSD treatments for both PTSD and CPTSD
+- Add interventions addressing disturbances in self-organization
+- Include emotion regulation training
+- Address negative self-concept (core symptom)
+- Work on interpersonal skills
+- Use phase-oriented approach for complex presentations
+
+### 33.3 Emerging Research
+
+**STAIR-NT (Cloitre):**
+- Skills Training in Affective and Interpersonal Regulation + Narrative Therapy
+- Phase-oriented approach for complex trauma
+- Currently being compared with non-phased treatments
+
+---
+
+## 34. AI in Mental Health (2025)
+
+### 34.1 Evidence Base
+
+**Meta-Analytic Findings:**
+- AI-based chatbots can offer accessible, scalable psychological help
+- Effective in crisis circumstances when traditional treatment restricted
+- Can supplement human therapists, not replace them
+- Show promise for anxiety, depression, eating disorders
+
+**Healthcare Equity:**
+- AI self-referral chatbots can increase access for ethnic minorities
+- Reduce cultural and linguistic barriers
+- Increase proportion of underserved groups seeking help
+
+### 34.2 Capabilities and Limitations
+
+**AI Can:**
+- Provide 24/7 accessibility
+- Deliver consistent evidence-based interventions
+- Track patterns over time
+- Reduce stigma barriers
+- Supplement between-session support
+- Detect potential risk indicators
+
+**AI Cannot:**
+- Replace in-person care for complex cases
+- Provide emergency crisis intervention
+- Guarantee confidentiality
+- Make diagnoses
+- Prescribe medication
+- Match human clinical judgment in nuanced situations
+
+### 34.3 Suicide Risk Detection
+
+**Emerging Applications:**
+- AI may detect suicide risk more quickly than clinicians
+- Could enable faster referrals to trained professionals
+- Pattern recognition across large datasets
+- Still requires human oversight for intervention
+
+### 34.4 Research Gaps Identified
+
+- More research needed on adolescent and older adult populations
+- Need to serve users in non-WEIRD countries
+- Integration of chatbots into existing therapy frameworks
+- Substantial heterogeneity in current studies
+- Moderate risk of bias in existing research
+
+---
+
+## 35. Measurement-Based Care Updates
+
+### 35.1 Core Principles
+
+**Definition:** Systematic use of validated measures to inform treatment decisions
+
+**Key Components:**
+1. **Collect**: Regular administration of validated measures
+2. **Share**: Discuss results with client
+3. **Act**: Adjust treatment based on data
+
+### 35.2 Benefits
+
+- Identify clients not responding early
+- Track progress objectively
+- Enhance alliance through transparency
+- Improve outcomes (small but significant effect)
+- Support personalization decisions
+
+### 35.3 Recommended Measures
+
+**For Digital/AI Contexts:**
+- PHQ-9 (Depression)
+- GAD-7 (Anxiety)
+- PCL-5 (PTSD)
+- Subjective rating scales (0-10)
+- Session quality ratings
+- Goal progress tracking
 
 ---
 
 ## Document Summary Statistics
 
-- **Total Sections:** 30 major sections
+- **Total Sections:** 35 major sections
 - **Theoretical Orientations Covered:** 5 major traditions, 20+ specific approaches
-- **Disorders Covered:** All major DSM-5-TR categories with treatment protocols
+- **Disorders Covered:** All major DSM-5-TR/ICD-11 categories with treatment protocols
 - **Evidence-Based Treatments Detailed:** 40+ specific protocols
 - **Classical Texts Referenced:** 60+ foundational works
 - **Assessment Tools Listed:** 20+ standardized measures
 - **Therapeutic Skills Detailed:** 100+ specific techniques
 - **Special Populations Covered:** Children, adolescents, older adults, couples, groups
 - **Contemporary Approaches:** IFS, Schema Therapy, MBT, ACT, EMDR, Somatic therapies
+- **2025 Updates:** Digital Therapeutic Alliance, Personalized Psychotherapy, ICD-11 Complex PTSD, AI in Mental Health
